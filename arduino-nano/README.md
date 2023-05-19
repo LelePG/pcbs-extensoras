@@ -3,17 +3,16 @@
 <p align="center"><img src = "imagens/expansorNanoGif.gif" width = "300" alt = "Gif da placa em visualização 3d">
 <img src = "imagens/expansorNanoTop.png" width = "255" alt = "Visualização 2d do top da placa"></p>
 
-## O que é este projeto?
+## 🤔 O que é este projeto?
 Este projeto se trata de uma PCB com o intuito de possibilitar conexões na placa arduino nano utilizando diferentes tipos de conectores que podem ser soldados na placa de acordo com a necessidade do usuário.
 
 O projeto foi desenvolvido com o software **Easy EDA**.
 
-## Como este projeto está estruturado?
-* Gerber.zip: arquivos gerber do projeto;
+## 🤔 Como este projeto está estruturado?
 * Project.zip: arquivos de desenvolvimento do projeto;
 * Pasta imagens: contém imagens do projeto;
 
-## Componentes necessários para o projeto
+## ⚙️ Componentes necessários para o projeto
 A lista de componentes detalhada deste projeto pode ser encontrada na Mouser na forma de um carrinho de compras [clicando aqui.](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=22D48E511C)
 
 
